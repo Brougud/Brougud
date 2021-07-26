@@ -5,7 +5,7 @@
   </p>
 </a>
 <h3 align="center"> Hello I am monke im currentlly learning</h3>
-<body align=center>HTML | JS | TS | PHP</body>
+<h4 align="center"> PHP | TS | JS | HTML | 
 
 
 <p align="center">
