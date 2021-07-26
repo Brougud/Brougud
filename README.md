@@ -1,7 +1,7 @@
-<h2 align="center">Brady's Stats</h2>
+<h2 align="center">TLS Gorilla's stats</h2>
 <a href="https://github.com/0x00032">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=0x00032" alt="Profile Views Count">
+    <img src="https://komarev.com/ghpvc/?username=Brougud" alt="Profile Views Count">
   </p>
 </a>
 
