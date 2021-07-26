@@ -4,7 +4,8 @@
     <img src="https://komarev.com/ghpvc/?username=Brougud" alt="Profile Views Count">
   </p>
 </a>
-<h3 align="center"> Hello </h3>
+<h3 align="center"> Hello I am monke im currentlly learning</h3>
+<body>HTML | JS | TS | PHP</body>
 
 
 <p align="center">
