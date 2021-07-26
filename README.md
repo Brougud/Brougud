@@ -1,6 +1,6 @@
 ### Hi there 👋
-#🔭 I’m currently working on Minecraft BDSx scripting
-#🌱 I’m currently learning | JS | TS | PHP | HTML | 
+-*🔭 I’m currently working on Minecraft BDSx scripting 
+-*🌱 I’m currently learning | JS | TS | PHP | HTML | 
 
 <!--
 **Brougud/Brougud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
