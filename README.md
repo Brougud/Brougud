@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=Brougud" alt="Profile Views Count">
   </p>
 </a>
-<body>
+<body align="center">
   Hello
 </body>
 
