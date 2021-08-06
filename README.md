@@ -13,12 +13,15 @@
 </p>
 
 <p align="center">
+  <a>
   <img src="https://discord.c99.nl/widget/theme-3/383010755168960512.png" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brougud&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-"
+  <a>
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brougud&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)"
+       </a>
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
