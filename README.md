@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuoIncure&langs_count=17" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brougud&langs_count=17" />
   </a>
   </p>
 <hr>
