@@ -6,6 +6,7 @@
 </a>
 <h3 align="center"> Hello I am monke im currentlly learning</h3>
 <h4 align="center"> PHP | TS | JS | HTML | CSS</h4>
+<hr>
 
 
 <p align="center">
@@ -20,10 +21,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brougud&langs_count=8" />
-       </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brougud&langs_count=17" />
+  </a>
   </p>
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://css-tricks.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /> </a> <a href="https://html.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /> </a>
 
