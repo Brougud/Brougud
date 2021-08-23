@@ -8,10 +8,10 @@
 <h4 align="center"> PHP | TS | JS | HTML | CSS</h4>
 <hr>
 
-![](https://github-profile-trophy.vercel.app/?username=Brougud&theme=discord)
+   ![](https://github-profile-trophy.vercel.app/?username=Brougud&theme=discord)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Brougud&title_color=e683d9&text_color=75eeb2&show_icons=true&bg_color=193549&hide_border=false&icon_color=4F8CC9&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=Brougud&title_color=7289DA&text_color=FFFFFF&show_icons=true&bg_color=23272A&hide_border=false&icon_color=4F8CC9&hide_title=true&count_private=true" />
 </p>
 
 <p align="center">
