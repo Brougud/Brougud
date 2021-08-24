@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brougud&langs_count=15&title_color=7289DA&text_color=FFFFFF&bg_color=23272A" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brougud&langs_count=20&title_color=7289DA&text_color=FFFFFF&bg_color=23272A" />
   </a>
   </p>
   <b>About me!</b>
