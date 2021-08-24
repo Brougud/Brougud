@@ -8,7 +8,7 @@
 <h4 align="center"> PHP | TS | JS | HTML | CSS</h4>
 <hr>
 
-   ![](https://github-profile-trophy.vercel.app/?username=Brougud&theme=discord)
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Brougud&column=8&theme=discord&no-frame=true"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=Brougud&title_color=7289DA&text_color=FFFFFF&show_icons=true&bg_color=23272A&hide_border=false&icon_color=4F8CC9&hide_title=true&count_private=true" />
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brougud&langs_count=20&title_color=7289DA&text_color=FFFFFF&bg_color=23272A" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brougud&layout=compact&langs_count=20&title_color=7289DA&text_color=FFFFFF&bg_color=23272A" />
   </a>
   </p>
   <b>About me!</b>
