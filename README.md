@@ -26,7 +26,7 @@
   </a>
   </p>
   <b>About me!</b>
-  I am a developer- I work in languages like PHP, TS, HTML, CSS, JS, and am learning C++, Python (for school), and alot of other varients and thing. To see more about my Language knowledge you can click <a href="langs.md">here</a>
+  I am a developer- I work in languages like PHP, TS, HTML, CSS, JS, and am learning C++, Python (for school), and alot of other varients and thing. To see more about my Language knowledge you can click <a href="https://github.com/Brougud/Brougud/blob/main/Langs.md">here</a>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
