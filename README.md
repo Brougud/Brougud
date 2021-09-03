@@ -27,6 +27,16 @@
   </p>
   <b>About me!</b>
   I am a developer- I work in languages like PHP, TS, HTML, CSS, JS, and am learning C++, Python (for school), and alot of other varients and thing. To see more about my Language knowledge you can click <a href="https://github.com/Brougud/Brougud/blob/main/Langs.md">here</a>
+  <br>
+  <br>
+ <b> If you would like to learn more about me or learn about diffrent, programming languages then you can also click on the links below!</b>
+<br>
+<br>
+<a href="https://github.com/Brougud/Brougud/blob/main/Aboutme.md">My Versai Development</a>
+<br>
+<a>Websites</a>
+<br>
+<a>People I Work With / Freinds</a>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
