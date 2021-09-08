@@ -5,8 +5,40 @@
   </p>
 </a>
 <h3 align="center"> Hello I am monke im currentlly learning</h3>
-<div>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<div align=center>
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Applications</th>
+    <th>Librarys & Technoligies</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/npm-181717.svg?style=for-the-badge&logo=npm&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330"/></td>
+    <td><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=White" /></td>
+    <td><img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/sublime-%23323330.svg?style=for-the-badge&logo=sublime%20text&logoColor=FF9800" /></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+<!--
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,6 +47,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=White" />
 <img src="https://img.shields.io/badge/npm-181717.svg?style=for-the-badge&logo=npm&logoColor=black" />
+-->
 </div>
 <hr>
 <div align="center">
