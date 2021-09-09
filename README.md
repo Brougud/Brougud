@@ -11,31 +11,37 @@
     <th>Languages</th>
     <th>Applications</th>
     <th>Librarys & Technoligies</th>
+    <th>Working With</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/npm-181717.svg?style=for-the-badge&logo=npm&logoColor=black" /></td>
+    <td style="text-align:center"><img src="https://shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=mojang%20studios&logoColor=white" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330"/></td>
     <td><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=White" /></td>
     <td><img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+      <td><img src="https://shields.io/badge/BDSx-68ab36%20?style=for-the-badge" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/sublime-%23323330.svg?style=for-the-badge&logo=sublime%20text&logoColor=FF9800" /></td>
-    <td></td>
+    <td><img src="https://shields.io/badge/Reveal.js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=%23323330" /></td>
+    <td><img src="https://shields.io/badge/Pocketmine-7db8d8?style=for-the-badge" />
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
     <td></td>
     <td></td>
+    <td><img src="https://shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></td>
     <td></td>
     <td></td>
+    <td><img src="https://shields.io/badge/Websites-31A8FF?style=for-the-badge" />
   </tr>
   </table>
 <!--
