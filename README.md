@@ -14,7 +14,7 @@
     <th>Working With</th>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></td>
+    <td><a href="https://github.com/Brougud/Brougud/blob/main/ts.md"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a></td>
     <td><img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/npm-181717.svg?style=for-the-badge&logo=npm&logoColor=black" /></td>
     <td style="text-align:center"><img src="https://shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=mojang%20studios&logoColor=white" /></td>
