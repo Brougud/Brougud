@@ -58,7 +58,6 @@
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brougud&repo=DiscordCommands&title_color=7289DA&text_color=FFFFFF&bg_color=23272A&hide_border=true&icon_color=4F8CC9&hide_title=false">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brougud&repo=Buttons&title_color=7289DA&text_color=FFFFFF&bg_color=23272A&hide_border=true&icon_color=4F8CC9&hide_title=true">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Brougud&column=8&theme=discord&no-frame=true"/>
 </div>
 <p align="center">
