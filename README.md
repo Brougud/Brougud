@@ -63,10 +63,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=Brougud&title_color=7289DA&text_color=FFFFFF&show_icons=true&bg_color=23272A&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 </p>
-
+<br>
 <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/383010755168960512.png" />
+  <img align="right" src="https://lanyard.cnrad.dev/api/383010755168960512?hideTimestamp=true?bg=#555555">
 </div>
+<br>
 <div align="center">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
