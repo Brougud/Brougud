@@ -72,6 +72,9 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brougud&langs_count=6&title_color=7289DA&text_color=FFFFFF&bg_color=23272A&layout=compact&hide_border=true" />
+    
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=savagedjcaleb&cover_image=true&theme=default&bar_color=20bc3f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+    
   </a>
   </p>
   <b>About me!</b>
